@@ -25,7 +25,7 @@ The objective of the project is to predict the captions for the input image. The
 
 https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download
 
-#Accuracy
+# Accuracy
   
 **BLEU-1 Score:** 0.516
 

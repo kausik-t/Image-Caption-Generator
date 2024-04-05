@@ -21,7 +21,12 @@ The objective of the project is to predict the captions for the input image. The
 - VGG16 Network
 - CNN-LSTM Network
 
+# Dataset
+
+https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download
+
 #Accuracy
   
 **BLEU-1 Score:** 0.516
+
 **BLEU-2 Score:** 0.293
